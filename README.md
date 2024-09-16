@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **DevOps based projects**
 
-- 📫 How to reach me [shashank-shetty-devops-engineering/](shashank-shetty-devops-engineering/)
-
 - 💬 Ask me about **Front End,Devops,Data Structures**
 
 - 📫 How to reach me **shashankshetty641@gmail.com**
