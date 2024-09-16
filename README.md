@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashank</h1>
+<h1 align="center">Hi 👋, I'm Shashank Shetty</h1>
 <h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank1125&label=Profile%20views&color=0e75b6&style=flat" alt="shashank1125" /> </p>
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **DevOps based projects**
 
-- 📫 How to reach me [https://www.linkedin.com/in/shashank-shetty-devops-engineering/](https://www.linkedin.com/in/shashank-shetty-devops-engineering/)
+- 📫 How to reach me [shashank-shetty-devops-engineering/](shashank-shetty-devops-engineering/)
 
 - 💬 Ask me about **Front End,Devops,Data Structures**
 
